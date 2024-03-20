@@ -28,7 +28,7 @@ mkdocstrings==0.21.2
 mkdocstrings[python]>=0.18
 
 # Styling
-black==23.3.0
+black==24.3.0
 flake8==6.0.0
 Flake8-pyproject==1.2.3
 isort==5.12.0
